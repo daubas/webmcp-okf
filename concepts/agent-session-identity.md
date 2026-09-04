@@ -38,8 +38,3 @@ tags: [webmcp, identity, session, security]
 - Agent 自我聲明的名稱只作參考，不可用於授權判斷。
 - 寫入操作仍需在伺服器端驗證使用者權限。
 - Token 不應傳進工具參數或 Agent context。
-
-## Change Workspace 驗收標記
-
-
-gi-e2e-20260904 — 這是尚未發布的暫存草稿，用來驗證人與 Agent 共編、版本保存與差異檢視。 [^source-6a774ab4-52b3-45a0-bc46-7e97131a85d0]
