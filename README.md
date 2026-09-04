@@ -1,3 +1,14 @@
+---
+type: Reference
+title: webmcp-okf
+description: WebMCP 主題的公開 OKF 知識庫與 HatWiki Demo 內容來源。
+tags: [webmcp, okf, hatwiki]
+status: stable
+generated:
+  by: codex/gpt-5
+  at: 2026-09-04T06:12:20Z
+---
+
 # webmcp-okf
 
 WebMCP 主題的公開 OKF 知識庫。
@@ -9,6 +20,7 @@ WebMCP 主題的公開 OKF 知識庫。
 - concepts/ — 核心概念與設計原則
 - entities/ — 具體專案、規格與產品
 - methods/ — 實作模式與開發指引
+- guides/ — HatWiki 使用指引
 - raw/ — 原始來源快照（不進入公開 Wiki 投影）
 
 ## 格式

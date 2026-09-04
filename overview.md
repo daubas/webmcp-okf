@@ -2,6 +2,11 @@
 type: Overview
 title: WebMCP 知識庫
 description: 整理 WebMCP 規格、瀏覽器 Agent 互動、工具設計與實踐案例的公開知識庫。
+tags: [webmcp, browser-agent, collaboration, hatwiki]
+status: stable
+generated:
+  by: codex/gpt-5
+  at: 2026-09-04T06:12:20Z
 ---
 
 # WebMCP 知識庫
@@ -9,6 +14,12 @@ description: 整理 WebMCP 規格、瀏覽器 Agent 互動、工具設計與實�
 本知識庫持續整理 WebMCP 的規格演進、瀏覽器 Agent 互動設計、權限模型、開發實作與社群案例。
 
 WebMCP 讓網站透過標準 API 向瀏覽器中的 AI Agent 提供工具，使人與 Agent 能在同一個網頁中協作。詳見 [WebMCP](concepts/webmcp.md)。
+
+## HatWiki 共編案例
+
+- [HatWiki](/concepts/hatwiki.md)：人與 Agent 共編、以 Git 為 canonical 狀態的公開 Wiki
+- [共享記憶](/concepts/shared-memory.md)：新 Agent session 如何從 Wiki、Git 歷史與 WikiLinks 延續工作
+- [開始使用 HatWiki](/guides/getting-started.md)：從匿名唯讀到 GitHub 授權後的既有頁面編輯流程
 
 ## 主要概念
 
