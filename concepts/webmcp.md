@@ -36,3 +36,5 @@ Agent 沿用使用者在瀏覽器中既有的登入狀態（cookie、session）�
 ## 現況
 
 WebMCP 是 Draft Community Group Report，不是 W3C Recommendation。Chrome 已有實作，其他瀏覽器尚在觀望。API 仍在快速演進。
+
+> HatWiki production acceptance marker — 2026-09-04
